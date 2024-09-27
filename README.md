@@ -78,7 +78,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/ssii/healthcare.git
+git clone https://github.com/SSII-Services/healthcare.git
 cd healthcare
 ```
 
